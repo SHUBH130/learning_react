@@ -1,0 +1,14 @@
+.header{
+    background-color: rgb(48, 224, 224);
+    color: rgb(182, 17, 67);
+    padding: 10px;
+    margin: 5px;
+}
+
+.btn{
+    background-color: rgb(173, 83, 9);
+    color: rgb(206, 228, 15);
+    padding: 4px 8px;
+    
+}
+
